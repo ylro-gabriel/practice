@@ -1,4 +1,7 @@
-/* HEADERS */
+/* GLOBAL */
+h1 {
+    text-align: center;
+}
 h3 {
     background-color: aquamarine;
 }
