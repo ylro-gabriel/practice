@@ -3,12 +3,15 @@ h1 {
     text-align: center;
 }
 h3 {
-    background-color: aquamarine;
+    background-color: rgba(127, 255, 212,.5);
+}
+a {
+    color: #ff0000;
 }
 
 /* CLASSES */
 .def {
-    background-color: aliceblue;
+    background-color: #f0f8ff;
 }
 
 /* .subli {
